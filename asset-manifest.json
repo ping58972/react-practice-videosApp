@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-practice-searchVideosOnYoutubeApi/static/css/main.bab0b19c.chunk.css",
+    "main.js": "/react-practice-searchVideosOnYoutubeApi/static/js/main.a9fdbbc1.chunk.js",
+    "main.js.map": "/react-practice-searchVideosOnYoutubeApi/static/js/main.a9fdbbc1.chunk.js.map",
+    "runtime~main.js": "/react-practice-searchVideosOnYoutubeApi/static/js/runtime~main.56684985.js",
+    "runtime~main.js.map": "/react-practice-searchVideosOnYoutubeApi/static/js/runtime~main.56684985.js.map",
+    "static/js/2.824d5390.chunk.js": "/react-practice-searchVideosOnYoutubeApi/static/js/2.824d5390.chunk.js",
+    "static/js/2.824d5390.chunk.js.map": "/react-practice-searchVideosOnYoutubeApi/static/js/2.824d5390.chunk.js.map",
+    "index.html": "/react-practice-searchVideosOnYoutubeApi/index.html",
+    "precache-manifest.ab9938b6ce6303757149dc055b43a5f3.js": "/react-practice-searchVideosOnYoutubeApi/precache-manifest.ab9938b6ce6303757149dc055b43a5f3.js",
+    "service-worker.js": "/react-practice-searchVideosOnYoutubeApi/service-worker.js",
+    "static/css/main.bab0b19c.chunk.css.map": "/react-practice-searchVideosOnYoutubeApi/static/css/main.bab0b19c.chunk.css.map"
+  }
+}
