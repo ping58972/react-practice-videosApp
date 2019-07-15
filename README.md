@@ -1,13 +1,13 @@
 # React Search Videos On Youtube Api
 
 <a href="https://ping58972.github.io/react-practice-searchVideosOnYoutubeApi/"><img src="https://a.imge.to/2019/07/15/FpGFG.jpg" target="_blank" alt="React Search Videos On Youtube Api"></a>
-The purpose of website is for practicing React Search Videos On Youtube Api by implement fetching images from an API, etc.
+The purpose of website is for practicing React Search Videos On Youtube Api by implement fetching videos from Youtube API, etc.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Built with
 
-- [React](#) - Used for implement image compunents.
-- [axios](#) - Used for fetching images api.
+- [React](#) - Used for implement video compunents.
+- [axios](#) - Used for fetching videos from Youtube API.
 - More detail... see package.json
 
 ## Available Scripts
